@@ -5,7 +5,7 @@ Este é um jogo de aventura point-and-click feito em Python com a biblioteca **P
 Este projeto foi criado para um teste de tutoria de Python, seguindo todos os requisitos, como:
 * Uso exclusivo de PgZero, math e random
 * Menu principal funcional
-* Classes próprias para Player e Inimigos
+* Classes próprias para Player e Enemy
 * Animação de sprites (parado e andando)
 
 ## Como Rodar o Jogo
@@ -25,4 +25,4 @@ Para jogar, você precisa ter o Python e o `pgzero` instalados.
 
 ##  Controles
 
-* **Mouse:** Clique em qualquer lugar da tela para mover o Sid.
+* **Mouse:** User as setas do teclado para mover o Gafeld.
